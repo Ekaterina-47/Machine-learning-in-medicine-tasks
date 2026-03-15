@@ -2,3 +2,6 @@
 *.checkpoint.ipynb
 .ipynb_checkpoints/
 *.checkpoint.ipynb
+venv/
+__pycache__/
+.ipynb_checkpoints/
